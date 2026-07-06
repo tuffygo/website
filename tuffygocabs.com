@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TuffyGo Taxi Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+        }
+        .header {
+            background: #ffc107;
+            padding: 20px;
+        }
+        .hero {
+            padding: 50px;
+        }
+        .btn {
+            background: #28a745;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .features {
+            padding: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="header">
+    <h1>TuffyGo Taxi Services</h1>
+</div>
+
+<div class="hero">
+    <h2>Book Reliable Cabs in Hyderabad</h2>
+    <p>5000+ Drivers Available</p>
+    <a href="#" class="btn">Download App</a>
+</div>
+
+<div class="features">
+    <h3>Our Services</h3>
+    <p>Local Rides</p>
+    <p>Airport Transfers</p>
+    <p>Reservations</p>
+    <p>Rentals</p>
+</div>
+
+</body>
+</html>
